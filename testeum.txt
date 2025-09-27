@@ -1,0 +1,39 @@
+program teste;
+var x, y: integer;
+begin
+  x := 10;
+  y := x + 20;
+  if y >= 30 then
+    writeln("Maior ou igual a 30");
+end.
+
+program teste;
+var x: integer;
+/* Este é um comentário
+   que deve ser ignorado */
+begin
+  x := 10;
+end.
+
+
+program numeros;
+var a, b: real;
+begin
+  a := 3.14;
+  b := 2.5e-3;
+end.
+
+program erro;
+var x: integer;
+begin
+  x := 10 @;
+end.
+
+PROGRAM teste;
+VAR x, y: integer;
+BEGIN
+  x := 5;
+  y := 10;
+  IF x <= y THEN
+    writeln("x é menor ou igual a y");
+END.
