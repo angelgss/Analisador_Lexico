@@ -295,7 +295,7 @@ def escrever_saida(caminho: str, pares):
 # ---------- Executável principal ----------
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Uso: python Analisador.py <arquivo_entrada.pas>")
+        print("Uso: python Analisador.py <arquivo_teste.txt>")
         sys.exit(1)
 
     input_file = sys.argv[1]
