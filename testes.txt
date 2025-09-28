@@ -1,4 +1,4 @@
-program teste;
+program teste1;
 var x, y: integer;
 begin
   x := 10;
@@ -7,7 +7,7 @@ begin
     writeln("Maior ou igual a 30");
 end.
 
-program teste;
+program teste2;
 var x: integer;
 /* Este é um comentário
    que deve ser ignorado */
@@ -16,24 +16,24 @@ begin
 end.
 
 
-program numeros;
+program teste3;
 var a, b: real;
 begin
   a := 3.14;
   b := 2.5e-3;
 end.
 
-program erro;
+program teste4;
 var x: integer;
 begin
   x := 10 @;
 end.
 
-PROGRAM teste;
-VAR x, y: integer;
-BEGIN
+program teste5;
+var x, y: integer;
+begin
   x := 5;
   y := 10;
   IF x <= y THEN
     writeln("x é menor ou igual a y");
-END.
+end.

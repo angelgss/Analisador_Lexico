@@ -1,6 +1,6 @@
 <program, PALAVRA_RESERVADA, linha 1, coluna 1>
-<teste, IDENTIFICADOR, linha 1, coluna 9>
-<;, SIMBOLO_ESPECIAL, linha 1, coluna 14>
+<teste1, IDENTIFICADOR, linha 1, coluna 9>
+<;, SIMBOLO_ESPECIAL, linha 1, coluna 15>
 <var, PALAVRA_RESERVADA, linha 2, coluna 1>
 <x, IDENTIFICADOR, linha 2, coluna 5>
 <,, SIMBOLO_ESPECIAL, linha 2, coluna 6>
@@ -32,8 +32,8 @@
 <end, PALAVRA_RESERVADA, linha 8, coluna 1>
 <., FIM, linha 8, coluna 4>
 <program, PALAVRA_RESERVADA, linha 10, coluna 1>
-<teste, IDENTIFICADOR, linha 10, coluna 9>
-<;, SIMBOLO_ESPECIAL, linha 10, coluna 14>
+<teste2, IDENTIFICADOR, linha 10, coluna 9>
+<;, SIMBOLO_ESPECIAL, linha 10, coluna 15>
 <var, PALAVRA_RESERVADA, linha 11, coluna 1>
 <x, IDENTIFICADOR, linha 11, coluna 5>
 <:, SIMBOLO_ESPECIAL, linha 11, coluna 6>
@@ -47,8 +47,8 @@
 <end, PALAVRA_RESERVADA, linha 16, coluna 1>
 <., FIM, linha 16, coluna 4>
 <program, PALAVRA_RESERVADA, linha 19, coluna 1>
-<numeros, IDENTIFICADOR, linha 19, coluna 9>
-<;, SIMBOLO_ESPECIAL, linha 19, coluna 16>
+<teste3, IDENTIFICADOR, linha 19, coluna 9>
+<;, SIMBOLO_ESPECIAL, linha 19, coluna 15>
 <var, PALAVRA_RESERVADA, linha 20, coluna 1>
 <a, IDENTIFICADOR, linha 20, coluna 5>
 <,, SIMBOLO_ESPECIAL, linha 20, coluna 6>
@@ -68,8 +68,8 @@
 <end, PALAVRA_RESERVADA, linha 24, coluna 1>
 <., FIM, linha 24, coluna 4>
 <program, PALAVRA_RESERVADA, linha 26, coluna 1>
-<erro, IDENTIFICADOR, linha 26, coluna 9>
-<;, SIMBOLO_ESPECIAL, linha 26, coluna 13>
+<teste4, IDENTIFICADOR, linha 26, coluna 9>
+<;, SIMBOLO_ESPECIAL, linha 26, coluna 15>
 <var, PALAVRA_RESERVADA, linha 27, coluna 1>
 <x, IDENTIFICADOR, linha 27, coluna 5>
 <:, SIMBOLO_ESPECIAL, linha 27, coluna 6>
@@ -83,17 +83,17 @@
 <;, SIMBOLO_ESPECIAL, linha 29, coluna 12>
 <end, PALAVRA_RESERVADA, linha 30, coluna 1>
 <., FIM, linha 30, coluna 4>
-<PROGRAM, PALAVRA_RESERVADA, linha 32, coluna 1>
-<teste, IDENTIFICADOR, linha 32, coluna 9>
-<;, SIMBOLO_ESPECIAL, linha 32, coluna 14>
-<VAR, PALAVRA_RESERVADA, linha 33, coluna 1>
+<program, PALAVRA_RESERVADA, linha 32, coluna 1>
+<teste5, IDENTIFICADOR, linha 32, coluna 9>
+<;, SIMBOLO_ESPECIAL, linha 32, coluna 15>
+<var, PALAVRA_RESERVADA, linha 33, coluna 1>
 <x, IDENTIFICADOR, linha 33, coluna 5>
 <,, SIMBOLO_ESPECIAL, linha 33, coluna 6>
 <y, IDENTIFICADOR, linha 33, coluna 8>
 <:, SIMBOLO_ESPECIAL, linha 33, coluna 9>
 <integer, PALAVRA_RESERVADA, linha 33, coluna 11>
 <;, SIMBOLO_ESPECIAL, linha 33, coluna 18>
-<BEGIN, PALAVRA_RESERVADA, linha 34, coluna 1>
+<begin, PALAVRA_RESERVADA, linha 34, coluna 1>
 <x, IDENTIFICADOR, linha 35, coluna 3>
 <:=, ATRIBUICAO, linha 35, coluna 5>
 <5, NUM_INTEIRO, linha 35, coluna 8>
@@ -112,5 +112,5 @@
 <"x é menor ou igual a y", CONST_STRING, linha 38, coluna 13>
 <), SIMBOLO_ESPECIAL, linha 38, coluna 37>
 <;, SIMBOLO_ESPECIAL, linha 38, coluna 38>
-<END, PALAVRA_RESERVADA, linha 39, coluna 1>
+<end, PALAVRA_RESERVADA, linha 39, coluna 1>
 <., FIM, linha 39, coluna 4>
