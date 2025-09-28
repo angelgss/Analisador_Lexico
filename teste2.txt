@@ -1,0 +1,7 @@
+program teste2;
+var x: integer;
+/* Este é um comentário
+   que deve ser ignorado */
+begin
+  x := 10;
+end.

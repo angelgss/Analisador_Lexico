@@ -1,0 +1,9 @@
+program teste1;
+var x, y: integer;
+begin
+  x := 10;
+  y := x + 20;
+  if y >= 30 then
+    writeln("Maior ou igual a 30");
+end.
+

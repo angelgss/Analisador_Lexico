@@ -1,0 +1,6 @@
+program teste3;
+var a, b: real;
+begin
+  a := 3.14;
+  b := 2.5e-3;
+end.
